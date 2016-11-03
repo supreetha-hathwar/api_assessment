@@ -1,0 +1,12 @@
+ development:
+   adapter: postgresql
+   encoding: unicode
+   reconnect: false
+   port: 5432
+   username: postgres
+   password: password
+   database: movie_portal_development
+   pool: 5
+   host: localhost
+   
+
